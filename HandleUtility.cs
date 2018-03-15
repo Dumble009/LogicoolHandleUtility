@@ -150,8 +150,8 @@ public class HandleUtility : MonoBehaviour {
 	public const int BUTTON_OPTION = 9;
 	public const int BUTTON_R3 = 10;
 	public const int BUTTON_L3 = 11;
-	public const int BUTTON_UP = 19;
-	public const int BUTTON_DOWN = 20;
+	public const int BUTTON_PLUS = 19;
+	public const int BUTTON_MINUS = 20;
 	public const int BUTTON_RED_DIAL_RIGHT = 21;
 	public const int BUTTON_RED_DIAL_LEFT = 22;
 	public const int BUTTON_RETURN = 23;
