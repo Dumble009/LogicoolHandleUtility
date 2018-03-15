@@ -1,5 +1,5 @@
 # LogicoolHandleUtility
-Logicoolのハンドルコントローラのユーティリティ。(動作確認G29)
+Logicoolのハンドルコントローラのユーティリティ。(動作確認G29)<br>
 ハンコンのSDKをUnityから利用できるようにしました。
 ## 内容物
 Handle.dll
