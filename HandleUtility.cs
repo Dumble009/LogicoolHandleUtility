@@ -118,7 +118,7 @@ public class HandleUtility : MonoBehaviour {
 	public const int FORCE_FRONTAL_COLLISION = 4;
 	public const int FORCE_DIRT_ROAD = 5;
 	public const int FORCE_BUMPY_ROAD = 6;
-	public const int FORCE_SLIPPERY_SPRING = 7;
+	public const int FORCE_SLIPPERY_ROAD = 7;
 	public const int FORCE_SURFACE_EFFECT = 8;
 	public const int FORCE_CAR_AIRBORNE = 11;
 	public const int FORCE_SOFT_STOP = 10;
